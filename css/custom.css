@@ -1,0 +1,12 @@
+.service .service-item .service-inner .service-img img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+@media (min-width: 900px) {
+    .service .service-item .service-inner .service-img img{
+        width: 415px;
+        height: 333px;
+        object-fit: cover;
+    }
+}
